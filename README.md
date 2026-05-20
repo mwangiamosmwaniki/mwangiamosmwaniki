@@ -83,7 +83,7 @@ Passionate about everything from pixel-perfect UIs to robust server-side systems
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwangiamosmwaniki&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=444441&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwangiamosmwaniki&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=444441&langs_count=8" alt="Top Languages" />
 
 </div>
 
