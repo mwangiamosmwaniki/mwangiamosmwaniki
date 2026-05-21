@@ -79,7 +79,7 @@ Passionate about everything from pixel-perfect UIs to robust server-side systems
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mwangiamosmwaniki&theme=transparent&hide_border=true&stroke=1D9E75&ring=1D9E75&fire=0F6E56&currStreakLabel=0F6E56&sideLabels=888780&dates=888780" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mwangiamosmwaniki&theme=transparent&hide_border=true&stroke=1D9E75&ring=1D9E75&fire=0F6E56&currStreakLabel=0F6E56&sideLabels=888780&dates=888780" alt="GitHub Streak" />
 
 <br/><br/>
 
