@@ -1,96 +1,171 @@
-<div align="center">
+<p align="center">
+  <img src="assets/amos.png" width="170" style="border-radius:50%" alt="Amos Mwangi"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=&animation=fadeIn" width="100%" />
+<h1 align="center">Hi 👋, I'm Amos Mwangi</h1>
 
-</div>
+<h3 align="center">
+Full Stack Developer • Nairobi, Kenya 🇰🇪 • Open to Work
+</h3>
 
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1200&center=true&vCenter=true&width=650&lines=Building+clean+and+scalable+web+applications;Frontend+%2B+Backend+Developer;React+%7C+Node.js+%7C+Django+%7C+Next.js;Always+learning+new+technologies" />
+</p>
 
-```
-  fullstack developer · nairobi, kenya · open to work
-```
-
-# Amos Mwangi
-
-Building **clean, scalable web apps** from Nairobi.<br/>
-Passionate about everything from pixel-perfect UIs to robust server-side systems.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev--amos.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white)](https://dev-amos.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amosmwangi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amosmwangi)
-[![X](https://img.shields.io/badge/X-@Amoh__20-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Amoh_20)
-[![YouTube](https://img.shields.io/badge/YouTube-@amosmwangi-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@amosmwangi2976)
-[![Email](https://img.shields.io/badge/Email-mwangiamos703@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mwangiamos703@gmail.com)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-### ⚡ Quick Facts
+# 👨🏾‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+```javascript
+const amos = {
+    location: "Nairobi, Kenya",
+    role: "Full Stack Developer",
+    openToWork: true,
+
+    currentlyLearning: [
+        "Next.js",
+        "TypeScript"
+    ],
+
+    frontend: [
+        "React",
+        "Tailwind CSS",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express",
+        "Django"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+    ],
+
+    passion:
+        "Building scalable applications that solve real-world problems."
+};
+
+export default amos;
+```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Quick Facts
 
 | | |
 |---|---|
-| 🌱 Currently learning | **Next.js · TypeScript** |
-| 💬 Ask me about | **React · Node.js · Django · MERN Stack** |
-| 🔭 Currently working on | **Full-stack projects & open source** |
-| 📫 Reach me at | **mwangiamos703@gmail.com** |
-| ⚡ Fun fact | I debug with console.log and I'm not ashamed |
+| 🌱 Learning | **Next.js • TypeScript** |
+| 💬 Ask me about | **React • Node.js • Django • MERN** |
+| 🔭 Working on | **Full Stack Applications & Open Source** |
+| 📫 Email | **mwangiamos703@gmail.com** |
+| ⚡ Fun Fact | **I debug with console.log and I'm not ashamed 😄** |
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Frontend**
+## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite"/>
+</p>
 
-**Backend**
+## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python"/>
+</p>
 
-**Databases**
+## Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite"/>
+</p>
 
-**Cloud & DevOps**
+## DevOps & Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,cloudflare"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+# 👨🏾‍💻 Coding Mode
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=mwangiamosmwaniki&theme=transparent&hide_border=true&stroke=1D9E75&ring=1D9E75&fire=0F6E56&currStreakLabel=0F6E56&sideLabels=888780&dates=888780" alt="GitHub Streak" />
+<img width="420" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Developer.svg"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwangiamosmwaniki&layout=compact&theme=transparent&hide_border=true&title_color=1D9E75&text_color=444441&langs_count=8" alt="Top Languages" />
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%" />
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Let's Connect
+
+<p align="center">
+
+<a href="mailto:mwangiamos703@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💻 "First, solve the problem. Then, write the code."
+
+</p>
