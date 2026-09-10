@@ -12,7 +12,7 @@
 
 # Amos Mwangi
 
-Building **clean, scalable web apps** from Nairobi.<br/>
+Building **clean, scalable web apps**.<br/>
 Passionate about everything from pixel-perfect UIs to robust server-side systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev--amos.netlify.app-1D9E75?style=flat-square&logo=netlify&logoColor=white)](https://dev-amos.netlify.app/)
