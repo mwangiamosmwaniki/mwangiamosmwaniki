@@ -109,7 +109,7 @@ I'm a **fullstack developer based in Nairobi, Kenya**, and I enjoy the whole jou
 
 I'm looking for opportunities to build thoughtful, well-crafted web products. If you have a role, a project, or just want to talk code:
 
-📫 **[mwangiamos703@gmail.com](mailto:mwangiamos703@gmail.com)** · 💼 **[LinkedIn](https://linkedin.com/in/amosmwangi)** · 🌐 **[Portfolio](https://dev-amos.netlify.app/)**
+📫 **[mwangiamos703@gmail.com](mailto:mwangiamos703@gmail.com)** · 💼 **[LinkedIn](https://linkedin.com/in/joshua-amos-45312242b)** · 🌐 **[Portfolio](https://dev-amos.netlify.app/)**
 
 <div align="center">
 
