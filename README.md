@@ -79,8 +79,6 @@ I'm a **fullstack developer based in Nairobi, Kenya**, and I enjoy the whole jou
 
 <br/>
 
-## 📌 Featured Projects
-
 <!-- Replace the placeholders below with your real projects. Pin repos on your profile too. -->
 
 <br/>
