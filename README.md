@@ -83,12 +83,6 @@ I'm a **fullstack developer based in Nairobi, Kenya**, and I enjoy the whole jou
 
 <!-- Replace the placeholders below with your real projects. Pin repos on your profile too. -->
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Project One](https://github.com/mwangiamosmwaniki)** | One-line description of what it does and why it matters | `React` `Node.js` `MongoDB` |
-| **[Project Two](https://github.com/mwangiamosmwaniki)** | One-line description of what it does and why it matters | `Next.js` `TypeScript` `PostgreSQL` |
-| **[Project Three](https://github.com/mwangiamosmwaniki)** | One-line description of what it does and why it matters | `Django` `REST` `Docker` |
-
 <br/>
 
 ## 📊 GitHub Stats
